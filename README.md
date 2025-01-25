@@ -7,7 +7,6 @@
 🎓 **Studying at** [MSU (Maharaja Sayajirao University), India](https://www.msubaroda.ac.in/), pursuing my degree in **Computer Science Engineering (CSE)**  
 💻 My Leekcode Profile [here!](https://leetcode.com/u/KashX_1304/)  
 😄 Pronouns: She/Her  
-⚡ Fun fact: **Tahiti is a magical place!**  
 
 ---
 
