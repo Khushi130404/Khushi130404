@@ -14,7 +14,7 @@
 ### 🛠️ Work Experience
 - **Currently Working at** [Keshav Encon](https://www.keshavencon.com/)  
 - **Worked at** [Ved Infosys](https://www.vedinfosys.com/)  
-- **Upcoming Internship**: [Mastercard Intern](https://www.mastercard.com/)  
+- **Upcoming Internship at** [Mastercard Intern](https://www.mastercard.com/)  
 
 ---
 
@@ -23,8 +23,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-grey?logo=github)](https://github.com/Khushi130404)  
 
 ---
-
-## 🛠️ Tech Stack  
 
 ### 🚀 Languages  
 ![C](https://skillicons.dev/icons?i=c)  ![C++](https://skillicons.dev/icons?i=cpp)  ![Java](https://skillicons.dev/icons?i=java)  ![Python](https://skillicons.dev/icons?i=python)  ![JavaScript](https://skillicons.dev/icons?i=javascript)  
