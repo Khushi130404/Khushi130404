@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Khushi  
+### Hey 👋, Khushi Here
 
 🔭 I’m currently working on **MediCure (MediReact + MediRest)**  
 🌱 I’m currently learning **Deep Learning & Spring Boot**  
@@ -57,7 +57,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+### 📊 GitHub Stats  
 ![Khushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khushi130404&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi130404&layout=compact&theme=dark)  
 
