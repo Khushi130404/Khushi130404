@@ -41,6 +41,7 @@
 ### 🛠️ Software & Development Tools  
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)  
 ![JavaFX](https://img.shields.io/badge/JavaFX-3776AB?style=for-the-badge&logo=java&logoColor=white)  
+![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 ![Swing](https://img.shields.io/badge/Swing-007396?style=for-the-badge&logo=java&logoColor=white)  
 ![AWT](https://img.shields.io/badge/AWT-FFA500?style=for-the-badge&logo=java&logoColor=white)  
 
