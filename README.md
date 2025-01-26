@@ -1,7 +1,7 @@
 ### Hey 👋, Khushi Here
 
 🔭 I’m currently working on **MediCure (MediReact + MediRest)**  
-🌱 I’m currently learning **Deep Learning & Spring Boot**  
+🌱 I’m currently learning **Deep Learning**  
 💬 Ask me about **Web Scraping, Android Studio, Spring Boot**  
 📫 How to reach me: [khushipatel130404@gmail.com](mailto:khushipatel130404@gmail.com)  
 🎓 **Studying at** [MSU (Maharaja Sayajirao University), India](https://www.msubaroda.ac.in/), pursuing my degree in **Computer Science Engineering (CSE)**  
