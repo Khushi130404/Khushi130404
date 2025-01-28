@@ -39,22 +39,13 @@
 
 
 ### 🛠️ Software & Development Tools  
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)  
-![JavaFX](https://img.shields.io/badge/JavaFX-3776AB?style=for-the-badge&logo=java&logoColor=white)  
-![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white)
-![Swing](https://img.shields.io/badge/Swing-007396?style=for-the-badge&logo=java&logoColor=white)  
-![AWT](https://img.shields.io/badge/AWT-FFA500?style=for-the-badge&logo=java&logoColor=white)  
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)  ![JavaFX](https://img.shields.io/badge/JavaFX-3776AB?style=for-the-badge&logo=java&logoColor=white)  ![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white)  ![Swing](https://img.shields.io/badge/Swing-007396?style=for-the-badge&logo=java&logoColor=white)  ![AWT](https://img.shields.io/badge/AWT-FFA500?style=for-the-badge&logo=java&logoColor=white)  
 
 ### 💡 Technical Skills  
-![DSA](https://img.shields.io/badge/Data_Structures-008000?style=for-the-badge)  
-![DAA](https://img.shields.io/badge/Design_and_Analysis_of_Algorithms-800080?style=for-the-badge)  
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=python&logoColor=white)  
+![DSA](https://img.shields.io/badge/Data_Structures-008000?style=for-the-badge)  ![DAA](https://img.shields.io/badge/Design_and_Analysis_of_Algorithms-800080?style=for-the-badge)  ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=python&logoColor=white)  
 
 ### 🔍 Web Scraping & Automation  
-![Web Scraping](https://img.shields.io/badge/Web_Scraping-4A90E2?style=for-the-badge&logo=selenium&logoColor=white)  
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3796A6?style=for-the-badge&logo=python&logoColor=white)  
-![Scrapy](https://img.shields.io/badge/Scrapy-1A1A1A?style=for-the-badge&logo=scrapy&logoColor=white)  
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-4A90E2?style=for-the-badge&logo=selenium&logoColor=white)  ![Scrapy](https://img.shields.io/badge/Scrapy-1A1A1A?style=for-the-badge&logo=scrapy&logoColor=white)  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3796A6?style=for-the-badge&logo=python&logoColor=white)  
 
 ---
 
