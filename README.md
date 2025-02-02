@@ -27,7 +27,9 @@
 ![C](https://skillicons.dev/icons?i=c)  ![C++](https://skillicons.dev/icons?i=cpp)  ![Java](https://skillicons.dev/icons?i=java)  ![Python](https://skillicons.dev/icons?i=python)  ![JavaScript](https://skillicons.dev/icons?i=javascript)  
 
 ### 🗄️ Databases  
-![SQL](https://skillicons.dev/icons?i=mysql)  ![SQLite](https://skillicons.dev/icons?i=sqlite)  ![Firebase](https://skillicons.dev/icons?i=firebase)  ![MySQL](https://skillicons.dev/icons?i=mysql)  ![Oracle](https://skillicons.dev/icons?i=oracle)  
+![SQLite](https://skillicons.dev/icons?i=sqlite)  ![Firebase](https://skillicons.dev/icons?i=firebase)  ![MySQL](https://skillicons.dev/icons?i=mysql)  <img src="https://cdn-icons-png.flaticon.com/512/16183/16183644.png" style="width: 70px; height: 55px; background-color: #f4f4f4;"/>
+
+
 
 ### 🌐 Web Technologies  
 ![HTML](https://skillicons.dev/icons?i=html,css,js,php)
