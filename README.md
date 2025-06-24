@@ -11,9 +11,9 @@
 ---
 
 ### 🛠️ Work Experience
-- **Currently Working at** [Keshav Encon](https://www.keshavencon.com/)  
+- **Worked at** [Keshav Encon](https://www.keshavencon.com/)  
 - **Worked at** [Ved Infosys](https://www.vedinfosys.com/)  
-- **Upcoming Internship at** [Mastercard](https://www.mastercard.com/)  
+- **Intern at** [Mastercard](https://www.mastercard.com/)  
 
 ---
 
