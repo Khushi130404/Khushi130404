@@ -13,7 +13,8 @@
 ### 🛠️ Work Experience
 - **Worked at** [Keshav Encon](https://www.keshavencon.com/)  
 - **Worked at** [Ved Infosys](https://www.vedinfosys.com/)  
-- **Intern at** [Mastercard](https://www.mastercard.com/)  
+- **Intern at** [Mastercard](https://www.mastercard.com/)
+- **SDM Coordinator at** [Training & Placement Cell]
 
 ---
 
