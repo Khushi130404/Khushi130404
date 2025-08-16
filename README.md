@@ -5,16 +5,17 @@
 💬 Ask me about **Web Scraping, Android Studio, Spring Boot, React**  
 📫 How to reach me: [khushipatel130404@gmail.com](mailto:khushipatel130404@gmail.com)  
 🎓 **Studying at** [MSU (Maharaja Sayajirao University), India](https://www.msubaroda.ac.in/), pursuing my degree in **Computer Science Engineering (CSE)**  
-💻 My Leekcode Profile [here!](https://leetcode.com/u/KashX_1304/)  
+💻 My LeetCode Profile [here!](https://leetcode.com/u/KashX_1304/)  
 😄 Pronouns: She/Her  
 
 ---
 
 ### 🛠️ Work Experience
+- **Upcoming SDE at** [Mastercard](https://www.mastercard.com/)
 - **Worked at** [Keshav Encon](https://www.keshavencon.com/)  
 - **Worked at** [Ved Infosys](https://www.vedinfosys.com/)  
-- **Intern at** [Mastercard](https://www.mastercard.com/)
 - **SDM Coordinator at** [Training & Placement Cell (TNP)]
+- **Coordinator at** [Code Vimarsh]
 
 ---
 
