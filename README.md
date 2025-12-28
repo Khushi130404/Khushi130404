@@ -11,7 +11,7 @@
 ---
 
 ### 🛠️ Work Experience
-- **Upcoming Intern at** [SAC-ISRO](https://www.isro.gov.in/)
+- **Research Intern at** [SAC-ISRO](https://www.isro.gov.in/)
 - **Upcoming SDE at** [Mastercard](https://www.mastercard.com/)
 - **Worked at** [Keshav Encon](https://www.keshavencon.com/)  
 - **Worked at** [Ved Infosys](https://www.vedinfosys.com/)  
